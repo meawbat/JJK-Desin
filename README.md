@@ -1,3 +1,3 @@
-# JJK-Desin
-<br>
-<img>: src="https://github.com/meawbat/JJK-Desin/blob/main/JJK%20DESIN.png"
+# JJK-Desin 🎨👾
+
+<img src="https://github.com/meawbat/JJK-Desin/raw/main/JJK%20DESIN.png" alt="JJK Design" width="600">
